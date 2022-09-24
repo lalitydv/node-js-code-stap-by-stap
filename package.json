@@ -1,0 +1,26 @@
+{
+  "name": "js-code-stap-by-stap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hmr": "nodemon index.js",
+    "nodemon": "npm run hmr",
+    "start": "node index.js"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalitydv/node-js-code-stap-by-stap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalitydv/node-js-code-stap-by-stap/issues"
+  },
+  "homepage": "https://github.com/lalitydv/node-js-code-stap-by-stap#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
